@@ -1,0 +1,4 @@
+keyboard==0.13.5
+PyGetWindow==0.0.9
+pywin32==306
+pyinstaller==6.5.0
